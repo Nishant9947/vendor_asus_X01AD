@@ -1283,6 +1283,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X01AD/proprietary/vendor/lib/libchromatix_ov12a10_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov12a10_cpp_hfr_60.so \
     vendor/asus/X01AD/proprietary/vendor/lib/libchromatix_ov12a10_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov12a10_cpp_hfr_90.so \
     vendor/asus/X01AD/proprietary/vendor/lib/libchromatix_ov12a10_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov12a10_cpp_liveshot.so \
+    vendor/asus/X01AD/proprietary/system_ext/framework/qti-telephony-common.jar:$(TARGET_COPY_OUT_SYSTEM_EXT)/framework/qti-telephony-common.jar \
     vendor/asus/X01AD/proprietary/vendor/lib/libchromatix_ov12a10_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov12a10_cpp_preview.so \
     vendor/asus/X01AD/proprietary/vendor/lib/libchromatix_ov12a10_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov12a10_cpp_snapshot.so \
     vendor/asus/X01AD/proprietary/vendor/lib/libchromatix_ov12a10_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov12a10_cpp_video.so \
